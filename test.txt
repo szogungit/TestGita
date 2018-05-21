@@ -1,4 +1,5 @@
 Parametry wody oznaczone(18.V.2k18 15:55):
+
 T=23,9°C
 EC=815uS
 pH=7,34
