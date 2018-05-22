@@ -1,0 +1,17 @@
+Parametry wody oznaczone(18.V.2k18 15:55):
+T=23,9°C
+EC=815uS
+pH=7,34
+pH(6-8) = ~ 7,2
+
+GH = 18/5ml	16°d-18°d		TwO=16,1°d
+KH = 6/5ml	6°d
+CO2 ~ 10ppm (obl. tabela 12-8)
+NO3 ~ 50ppm
+PO4 = 2ppm
+Fe = 0,5ppm
+K = 14ppm
+
+CaMg		A=23	B=16	TwO=16,1°d
+Ca = 80ppm
+Mg = 21ppm
