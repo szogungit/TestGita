@@ -1,2 +1,2 @@
 Kolejny plik.
-Próba z odzyskania
+Pruba z cmd
