@@ -1,2 +1,1 @@
 Kolejny plik.
-Pruba z cmd
